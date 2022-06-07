@@ -1,7 +1,7 @@
 # HospitalAPI
 About
 -----
-API for Doctors of a Hospital which has been allocated by the govt. for testing, quarantine as well as well being of COVID-19 patients.
+**API for Doctors of a Hospital which has been allocated by the govt. for testing, quarantine as well as well being of COVID-19 patients.
 *Setup the Project
 --------------------
  *1.Clone or Download the Repo.
