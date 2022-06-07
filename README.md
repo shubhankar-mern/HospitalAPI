@@ -2,14 +2,14 @@
 About
 -----
 API for Doctors of a Hospital which has been allocated by the govt. for testing, quarantine as well as well being of COVID-19 patients.
-Setup the Project
+*Setup the Project
 --------------------
-1.Clone or Download the Repo.
-2.Run mongod to start the MongoDB Database.
-3.Run nodemon index.js to ignite the project.
-4.Use Postman to test the api.
+ *1.Clone or Download the Repo.
+ *2.Run mongod to start the MongoDB Database.
+ *3.Run nodemon index.js to ignite the project.
+ *4.Use Postman to test the api.
 
-Routes
+*Routes
 -------
 Register a Doctor: [POST]: /doctors/register
 Login for Doctor: [POST]: /doctors/login
